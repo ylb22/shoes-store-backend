@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "moduleResolution": "classic",
+    "target": "ES2021",
+    "checkJs": true,
+    "allowJs": true
+  }
+}
